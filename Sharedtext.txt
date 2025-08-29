@@ -1,0 +1,4 @@
+dev db 
+MONGODB_URL=mongodb+srv://mack:m6aDKKEFNNVvi5uR@cluster0.kb8caz5.mongodb.net/gig-nija
+
+https://us02web.zoom.us/j/89974214967?pwd=yNlyDgebhpQ8LyCZW9SkDXMAbjVTRk.1
